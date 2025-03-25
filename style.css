@@ -1,0 +1,41 @@
+body {
+    align-items: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: lightblue;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.alternate-style {
+    background-color: yellow;
+}
+.alternate-style th {
+    background-color: yellow;
+    color: black;
+}
+
+button {
+    background-color: green;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
